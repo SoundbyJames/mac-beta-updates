@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Beta updates</title>
+<item>
+<title>Build 146</title>
+<pubDate>Thu, 05 Nov 2026 22:58:23 GMT</pubDate>
+<sparkle:version>146</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Update test build: same as build 145.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-146.zip" type="application/octet-stream" sparkle:edSignature="CdzDPs6o4AuaZunRFfSRUYSH7B1CWrUeQ2K5qAEAdWo6FZZQqgKjtiAIjseUvjY9eKwSjh8OZoL8o+uDkklmBQ==" length="7144432" />
+</item>
+</channel>
+</rss>
