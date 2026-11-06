@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 149</title>
+<pubDate>Fri, 06 Nov 2026 17:02:26 GMT</pubDate>
+<sparkle:version>149</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>The app icon.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-149.zip" type="application/octet-stream" sparkle:edSignature="Fe4Avy9DfPTizYqnkwvyS+GuNk8XeTwJYuve4Vl3XvNgb8fXeZt4CoFh8AIy55DWDK/8F0venrdHIJh9qXt+AA==" length="8910066" />
+</item>
+<item>
 <title>Build 146</title>
 <pubDate>Thu, 05 Nov 2026 22:58:23 GMT</pubDate>
 <sparkle:version>146</sparkle:version>
