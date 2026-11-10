@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 180</title>
+<pubDate>Tue, 10 Nov 2026 07:28:47 GMT</pubDate>
+<sparkle:version>180</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Acoustica 8 is followed now, through Link, like RX and SpectraLayers. RX's Composite View can follow the picture: Settings → RX Composite View. Smoother RX playback in the Timecode views, and one video window on screen in more cases.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-180.zip" type="application/octet-stream" sparkle:edSignature="cA8Ox02wjEorxOdz7ufn+t4By0vpBQXgj9e7z70eQZaWs9dTtVam3v3/8dUzGdpYju0AlPnZ/hsMtpY5Qb99BQ==" length="9144665" />
+</item>
+<item>
 <title>Build 164</title>
 <pubDate>Tue, 10 Nov 2026 03:40:21 GMT</pubDate>
 <sparkle:version>164</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>The app icon.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-149.zip" type="application/octet-stream" sparkle:edSignature="Fe4Avy9DfPTizYqnkwvyS+GuNk8XeTwJYuve4Vl3XvNgb8fXeZt4CoFh8AIy55DWDK/8F0venrdHIJh9qXt+AA==" length="8910066" />
-</item>
-<item>
-<title>Build 146</title>
-<pubDate>Thu, 05 Nov 2026 22:58:23 GMT</pubDate>
-<sparkle:version>146</sparkle:version>
-<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>Update test build: same as build 145.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-146.zip" type="application/octet-stream" sparkle:edSignature="CdzDPs6o4AuaZunRFfSRUYSH7B1CWrUeQ2K5qAEAdWo6FZZQqgKjtiAIjseUvjY9eKwSjh8OZoL8o+uDkklmBQ==" length="7144432" />
 </item>
 </channel>
 </rss>
