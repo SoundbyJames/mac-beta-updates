@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 164</title>
+<pubDate>Tue, 10 Nov 2026 03:40:21 GMT</pubDate>
+<sparkle:version>164</sparkle:version>
+<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>RX in any time format (Samples, Timecode, Source Timecode and the rest). Always one video window: in RX's Composite View or Bypass, Pro Tools' video window takes over, and the picture comes back on the right frame when you return to a clip.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-164.zip" type="application/octet-stream" sparkle:edSignature="QWurvkVfZ7/B/IjJOyvoQWxgU1n0WKUtFWddcwM9GDj7H2xXUBCVtGsC9IoLkARFCzGUUyt6o7d/o0b9jbh1Aw==" length="8929406" />
+</item>
+<item>
 <title>Build 161</title>
 <pubDate>Tue, 10 Nov 2026 00:50:28 GMT</pubDate>
 <sparkle:version>161</sparkle:version>
