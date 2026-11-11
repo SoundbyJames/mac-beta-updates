@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 246</title>
+<pubDate>Wed, 11 Nov 2026 21:48:14 GMT</pubDate>
+<sparkle:version>246</sparkle:version>
+<sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>The picture now stays on the desktop where you work in RX, SpectraLayers or Acoustica, and steps aside when you switch to another app. Choose what happens in Settings → "When you switch to another app": Pro Tools' video comes back (the default), Hide all video, or Keep the picture up. When your clips are outside the movie, the picture says whether they are before its start or after its end. Swapping the movie on Pro Tools' video track during a send switches the picture to the new movie at the same spot.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-246.zip" type="application/octet-stream" sparkle:edSignature="4FW8ICYuG6+rFygz56Or/bTyXiiXpFVuLfcIkuG29w0nAenjjH8190MOfEOdWtdftI26F72M3XsJKA38bz2tBA==" length="9372604" />
+</item>
+<item>
 <title>Build 226</title>
 <pubDate>Wed, 11 Nov 2026 19:31:49 GMT</pubDate>
 <sparkle:version>226</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>RX in any time format (Samples, Timecode, Source Timecode and the rest). Always one video window: in RX's Composite View or Bypass, Pro Tools' video window takes over, and the picture comes back on the right frame when you return to a clip.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-164.zip" type="application/octet-stream" sparkle:edSignature="QWurvkVfZ7/B/IjJOyvoQWxgU1n0WKUtFWddcwM9GDj7H2xXUBCVtGsC9IoLkARFCzGUUyt6o7d/o0b9jbh1Aw==" length="8929406" />
-</item>
-<item>
-<title>Build 161</title>
-<pubDate>Tue, 10 Nov 2026 00:50:28 GMT</pubDate>
-<sparkle:version>161</sparkle:version>
-<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>RX in any time format and frame rate: Time, Samples, Timecode, Source Time and Source Timecode, at any rate, switchable mid-send. A cleaner download that opens however it is unzipped.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-161.zip" type="application/octet-stream" sparkle:edSignature="qRmeRcXww7zD2erZZq4KIxTG6Wute6tOSZpX+xkrfT0yfJEH+vL7002vOW6nD6lPkNaRpaxPqvAI4dLh4hG4CQ==" length="8917447" />
 </item>
 </channel>
 </rss>
