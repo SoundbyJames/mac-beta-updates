@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 226</title>
+<pubDate>Wed, 11 Nov 2026 19:31:49 GMT</pubDate>
+<sparkle:version>226</sparkle:version>
+<sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Multi-Input sends to RX are followed (boom and iso from two tracks in one tab). With more than one movie in a session, the one on your video track is used, and the picture says so when your clips fall outside it. If you opened the app from your download, the menu asks you to move it to Applications so updates install. New and experimental, off by default: Settings → Drive Non-Lethal Video Sync, for Video Sync 6 users.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-226.zip" type="application/octet-stream" sparkle:edSignature="fzyMC/mQLGgWtzqBtJ0zoG+KWJGIsoI4ppUj5d4PIDABUsKPWHLT+1E0OunemwoyzSMUUoxBpUrOqPN78QrWAQ==" length="9308318" />
+</item>
+<item>
 <title>Build 201</title>
 <pubDate>Wed, 11 Nov 2026 00:07:40 GMT</pubDate>
 <sparkle:version>201</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>RX in any time format and frame rate: Time, Samples, Timecode, Source Time and Source Timecode, at any rate, switchable mid-send. A cleaner download that opens however it is unzipped.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-161.zip" type="application/octet-stream" sparkle:edSignature="qRmeRcXww7zD2erZZq4KIxTG6Wute6tOSZpX+xkrfT0yfJEH+vL7002vOW6nD6lPkNaRpaxPqvAI4dLh4hG4CQ==" length="8917447" />
-</item>
-<item>
-<title>Build 154</title>
-<pubDate>Mon, 09 Nov 2026 13:07:17 GMT</pubDate>
-<sparkle:version>154</sparkle:version>
-<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>More detail in the log for troubleshooting. Nothing else changes.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-154.zip" type="application/octet-stream" sparkle:edSignature="ORKLtuLu+TXkeZG+uAf05lVCKDElDK599FB8oW0vmmQRmpKjBmOibiiB+U3mDzIbctmnhWwRllbt3Ep0vbWsCg==" length="8938807" />
 </item>
 </channel>
 </rss>
