@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 328</title>
+<pubDate>Fri, 13 Nov 2026 18:19:29 GMT</pubDate>
+<sparkle:version>328</sparkle:version>
+<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>0.3.0. A new Settings window: pick how the picture shows (the PictureFollows proxy, Pro Tools' video, or Video Sync), and see only what that mode needs. Pro Tools' video (beta, off by default): Pro Tools' own video window follows RX, SpectraLayers or Acoustica, no proxy made. At 23.976, 24 and 25 it plays smoothly over picture you've just played in Pro Tools; unplayed picture, like a clip's handles, plays a little slower so it doesn't stutter. Screen recording apps can make it stutter. If you close Pro Tools' video window during a send, it stays closed. The video track now decides the picture's timing, and the menu names the movie in use. Optional: a menu bar cue, green in the clip and red in the handles (an outline or a tinted icon). Our window opens where you left it.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-328.zip" type="application/octet-stream" sparkle:edSignature="1Nk0nSOZqBw7RBu2ySG3tV3pyNoC19UUdoaywl4lLEf8IpcwMEyLl6UV/S5ifWET/mfpPpPau6XUhPIjwKhfDw==" length="9668355" />
+</item>
+<item>
 <title>Build 246</title>
 <pubDate>Wed, 11 Nov 2026 21:48:14 GMT</pubDate>
 <sparkle:version>246</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>Acoustica 8 is followed now, through Link, like RX and SpectraLayers. RX's Composite View can follow the picture: Settings → RX Composite View. Smoother RX playback in the Timecode views, and one video window on screen in more cases.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-180.zip" type="application/octet-stream" sparkle:edSignature="cA8Ox02wjEorxOdz7ufn+t4By0vpBQXgj9e7z70eQZaWs9dTtVam3v3/8dUzGdpYju0AlPnZ/hsMtpY5Qb99BQ==" length="9144665" />
-</item>
-<item>
-<title>Build 164</title>
-<pubDate>Tue, 10 Nov 2026 03:40:21 GMT</pubDate>
-<sparkle:version>164</sparkle:version>
-<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>RX in any time format (Samples, Timecode, Source Timecode and the rest). Always one video window: in RX's Composite View or Bypass, Pro Tools' video window takes over, and the picture comes back on the right frame when you return to a clip.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-164.zip" type="application/octet-stream" sparkle:edSignature="QWurvkVfZ7/B/IjJOyvoQWxgU1n0WKUtFWddcwM9GDj7H2xXUBCVtGsC9IoLkARFCzGUUyt6o7d/o0b9jbh1Aw==" length="8929406" />
 </item>
 </channel>
 </rss>
