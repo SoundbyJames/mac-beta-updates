@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 349</title>
+<pubDate>Sat, 14 Nov 2026 15:04:16 GMT</pubDate>
+<sparkle:version>349</sparkle:version>
+<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>341.update. Send Log to James now sends straight to James: type your name and what happened, click Send. No email app needed. PictureFollows also starts the way you left it: if it was On, it comes back On after an update or a restart.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-349.zip" type="application/octet-stream" sparkle:edSignature="z2cHmutKAfEUFKfVcOtBj5wYFd/hSbOnj23bhNtuubKGCxrA859Ag/eam4lx6Xcqt+9rL8CjY98lg0GLCKaQAw==" length="9721054" />
+</item>
+<item>
 <title>Build 341</title>
 <pubDate>Sat, 14 Nov 2026 03:05:25 GMT</pubDate>
 <sparkle:version>341</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>Multi-Input sends to RX are followed (boom and iso from two tracks in one tab). With more than one movie in a session, the one on your video track is used, and the picture says so when your clips fall outside it. If you opened the app from your download, the menu asks you to move it to Applications so updates install. New and experimental, off by default: Settings → Drive Non-Lethal Video Sync, for Video Sync 6 users.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-226.zip" type="application/octet-stream" sparkle:edSignature="fzyMC/mQLGgWtzqBtJ0zoG+KWJGIsoI4ppUj5d4PIDABUsKPWHLT+1E0OunemwoyzSMUUoxBpUrOqPN78QrWAQ==" length="9308318" />
-</item>
-<item>
-<title>Build 201</title>
-<pubDate>Wed, 11 Nov 2026 00:07:40 GMT</pubDate>
-<sparkle:version>201</sparkle:version>
-<sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>A switch to hide the label on the picture: Settings → Picture. The Polling slider is gone; the picture reads at full speed while it moves, as before. The border is grey whenever it isn't red or green. A shortcut for Clear This Send's Picture, and shortcuts are easier to record: a red field shows the keys as you hold them, and Esc and Delete work with ⌘, ⌥ or ⌃.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-201.zip" type="application/octet-stream" sparkle:edSignature="Ep7g3z75o99XE2NaAfMAdUj5h66lpsUB6x/2IEABFpn6WaFYn0kT4U6soEHCbcozDIf7MF3kytqYHVaTvEx6DQ==" length="9168868" />
 </item>
 </channel>
 </rss>
