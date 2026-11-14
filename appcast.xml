@@ -8,7 +8,7 @@
 <sparkle:version>349</sparkle:version>
 <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>341.update. Send Log to James now sends straight to James: type your name and what happened, click Send. No email app needed. PictureFollows also starts the way you left it: if it was On, it comes back On after an update or a restart.</p>]]></description>
+<description><![CDATA[<p>Build 349. Send Log to James now sends straight to James: type your name and what happened, click Send. No email app needed. PictureFollows also starts the way you left it: if it was On, it comes back On after an update or a restart.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-349.zip" type="application/octet-stream" sparkle:edSignature="z2cHmutKAfEUFKfVcOtBj5wYFd/hSbOnj23bhNtuubKGCxrA859Ag/eam4lx6Xcqt+9rL8CjY98lg0GLCKaQAw==" length="9721054" />
 </item>
 <item>
