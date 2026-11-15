@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 364</title>
+<pubDate>Sun, 15 Nov 2026 16:07:41 GMT</pubDate>
+<sparkle:version>364</sparkle:version>
+<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Build 364. Pro Tools' video is now marked experimental. Under Settings → Pro Tools' video there's a new Playback choice: Method 1, 2 or 3. If playback looks rough, try another one. Method 1 is the default. The "Pro Tools' video window" setting now saves properly. With "Open it", PictureFollows opens Pro Tools' video window when a send starts and closes it again when you send back.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-364.zip" type="application/octet-stream" sparkle:edSignature="xIYtl4Ta6u4eEtvfilk3QXHd7iUBmnLAaSEm4BjDtDiMEHqFtBZY0AYyfWasBCUuCXrmFE7NGVC+PyQ5hI54BA==" length="9787129" />
+</item>
+<item>
 <title>Build 355</title>
 <pubDate>Sat, 14 Nov 2026 22:18:12 GMT</pubDate>
 <sparkle:version>355</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>0.3.0. A new Settings window: pick how the picture shows (the PictureFollows proxy, Pro Tools' video, or Video Sync), and see only what that mode needs. Pro Tools' video (beta, off by default): Pro Tools' own video window follows RX, SpectraLayers or Acoustica, no proxy made. At 23.976, 24 and 25 it plays smoothly over picture you've just played in Pro Tools; unplayed picture, like a clip's handles, plays a little slower so it doesn't stutter. Screen recording apps can make it stutter. If you close Pro Tools' video window during a send, it stays closed. The video track now decides the picture's timing, and the menu names the movie in use. Optional: a menu bar cue, green in the clip and red in the handles (an outline or a tinted icon). Our window opens where you left it.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-328.zip" type="application/octet-stream" sparkle:edSignature="1Nk0nSOZqBw7RBu2ySG3tV3pyNoC19UUdoaywl4lLEf8IpcwMEyLl6UV/S5ifWET/mfpPpPau6XUhPIjwKhfDw==" length="9668355" />
-</item>
-<item>
-<title>Build 246</title>
-<pubDate>Wed, 11 Nov 2026 21:48:14 GMT</pubDate>
-<sparkle:version>246</sparkle:version>
-<sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>The picture now stays on the desktop where you work in RX, SpectraLayers or Acoustica, and steps aside when you switch to another app. Choose what happens in Settings → "When you switch to another app": Pro Tools' video comes back (the default), Hide all video, or Keep the picture up. When your clips are outside the movie, the picture says whether they are before its start or after its end. Swapping the movie on Pro Tools' video track during a send switches the picture to the new movie at the same spot.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-246.zip" type="application/octet-stream" sparkle:edSignature="4FW8ICYuG6+rFygz56Or/bTyXiiXpFVuLfcIkuG29w0nAenjjH8190MOfEOdWtdftI26F72M3XsJKA38bz2tBA==" length="9372604" />
 </item>
 </channel>
 </rss>
