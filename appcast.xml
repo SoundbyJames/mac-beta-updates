@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 404</title>
+<pubDate>Wed, 18 Nov 2026 05:57:30 GMT</pubDate>
+<sparkle:version>404</sparkle:version>
+<sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Build 404. Build 404 (0.7.0). The menu is grouped: picture controls, Settings, logs, updates and version, Quit. Changelog… opens the changelog on picturefollows.com. Settings has no shortcut of its own now; record one in Settings → Shortcuts if you want one (none are set until you do).</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-404.zip" type="application/octet-stream" sparkle:edSignature="QrwmMvO46qHCMqTsF1Qi6NOILrPIVS2XPDZnK53VAUmpQSJblWRFmsmi74C1mG5uqZd6/YmF5hYFQ2S92eOkAA==" length="10045543" />
+</item>
+<item>
 <title>Build 401</title>
 <pubDate>Wed, 18 Nov 2026 05:24:06 GMT</pubDate>
 <sparkle:version>401</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>Build 369. SpectraLayers: sending the same clips again after clearing the picture, or after closing the tabs, now shows the picture every time.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-369.zip" type="application/octet-stream" sparkle:edSignature="h/DcyYdqwjHREgEXpy1bVNXdKmQBg7YqfO6v2Bxn4y+uJYi7BK/sKf9uHJlFQsMoaOYCFPcNFrYjk0hEQkJFCA==" length="9789263" />
-</item>
-<item>
-<title>Build 364</title>
-<pubDate>Sun, 15 Nov 2026 16:07:41 GMT</pubDate>
-<sparkle:version>364</sparkle:version>
-<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>Build 364. Pro Tools' video is now marked experimental. Under Settings → Pro Tools' video there's a new Playback choice: Method 1, 2 or 3. If playback looks rough, try another one. Method 1 is the default. The "Pro Tools' video window" setting now saves properly. With "Open it", PictureFollows opens Pro Tools' video window when a send starts and closes it again when you send back.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-364.zip" type="application/octet-stream" sparkle:edSignature="xIYtl4Ta6u4eEtvfilk3QXHd7iUBmnLAaSEm4BjDtDiMEHqFtBZY0AYyfWasBCUuCXrmFE7NGVC+PyQ5hI54BA==" length="9787129" />
 </item>
 </channel>
 </rss>
