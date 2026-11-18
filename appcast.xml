@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 401</title>
+<pubDate>Wed, 18 Nov 2026 05:24:06 GMT</pubDate>
+<sparkle:version>401</sparkle:version>
+<sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Build 401. Build 401 (0.6.0). Settings → Proxy: Clear Unused keeps the open session's proxy; Clear All asks first, then makes that one again in the background. Clearing only touches PictureFollows' own proxies, never your session or its movie. While a proxy is being made, hover over the menu bar icon for live progress, and Settings → Proxy shows a live bar. Open at login no longer mentions On.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-401.zip" type="application/octet-stream" sparkle:edSignature="O4nqlEGQFPvLXjXi4+3nylLcO4hkcd1859y0cTkyUFnQi/hyyA+Q21RKFHw6BgBsG0GSMcSovfAhrKOFHnSFDQ==" length="10043555" />
+</item>
+<item>
 <title>Build 398</title>
 <pubDate>Wed, 18 Nov 2026 04:41:59 GMT</pubDate>
 <sparkle:version>398</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>Build 364. Pro Tools' video is now marked experimental. Under Settings → Pro Tools' video there's a new Playback choice: Method 1, 2 or 3. If playback looks rough, try another one. Method 1 is the default. The "Pro Tools' video window" setting now saves properly. With "Open it", PictureFollows opens Pro Tools' video window when a send starts and closes it again when you send back.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-364.zip" type="application/octet-stream" sparkle:edSignature="xIYtl4Ta6u4eEtvfilk3QXHd7iUBmnLAaSEm4BjDtDiMEHqFtBZY0AYyfWasBCUuCXrmFE7NGVC+PyQ5hI54BA==" length="9787129" />
-</item>
-<item>
-<title>Build 355</title>
-<pubDate>Sat, 14 Nov 2026 22:18:12 GMT</pubDate>
-<sparkle:version>355</sparkle:version>
-<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>Build 355. Fixes the crash with Pro Tools' video. With a video card (Blackmagic, AJA), Pro Tools' video window is now left as it is; Settings → Pro Tools' video window lets you choose. Paste works in Send Log, the menu shows the build, and Send Log includes crash reports.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-355.zip" type="application/octet-stream" sparkle:edSignature="M2nE3bkmQA4qV7V8v8KObHMw9F9FgFfjKilz2bxLKNnSs39QcyutmVQQD5zvG1waTYiDr9Zb9bMiU6y47T7qBg==" length="9761035" />
 </item>
 </channel>
 </rss>
