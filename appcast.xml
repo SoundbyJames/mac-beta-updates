@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 398</title>
+<pubDate>Wed, 18 Nov 2026 04:41:59 GMT</pubDate>
+<sparkle:version>398</sparkle:version>
+<sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Build 398. Build 398 (0.5.0). No On switch: while PictureFollows is running, it follows. Bypass steps aside, Quit stops. When you send before a movie's picture is ready, a notice under the menu bar icon shows the progress and time left, and Pro Tools' video plays until then (Pro Tools 2025.06 or later). The picture is used from your next send. Bypass never stops a picture being prepared. The menu shows live progress.</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-398.zip" type="application/octet-stream" sparkle:edSignature="4wUDV7zBY2aXXNqQ9D+xXMWOPDtYjc6+m+yqEvJxwjop/KGvCXXioMYyLOZvVVyg5WvgmSE3B1dT0qRQhuOODA==" length="10012912" />
+</item>
+<item>
 <title>Build 382</title>
 <pubDate>Tue, 17 Nov 2026 03:22:28 GMT</pubDate>
 <sparkle:version>382</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>Build 355. Fixes the crash with Pro Tools' video. With a video card (Blackmagic, AJA), Pro Tools' video window is now left as it is; Settings → Pro Tools' video window lets you choose. Paste works in Send Log, the menu shows the build, and Send Log includes crash reports.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-355.zip" type="application/octet-stream" sparkle:edSignature="M2nE3bkmQA4qV7V8v8KObHMw9F9FgFfjKilz2bxLKNnSs39QcyutmVQQD5zvG1waTYiDr9Zb9bMiU6y47T7qBg==" length="9761035" />
-</item>
-<item>
-<title>Build 349</title>
-<pubDate>Sat, 14 Nov 2026 15:04:16 GMT</pubDate>
-<sparkle:version>349</sparkle:version>
-<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>Build 349. Send Log to James now sends straight to James: type your name and what happened, click Send. No email app needed. PictureFollows also starts the way you left it: if it was On, it comes back On after an update or a restart.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-349.zip" type="application/octet-stream" sparkle:edSignature="z2cHmutKAfEUFKfVcOtBj5wYFd/hSbOnj23bhNtuubKGCxrA859Ag/eam4lx6Xcqt+9rL8CjY98lg0GLCKaQAw==" length="9721054" />
 </item>
 </channel>
 </rss>
