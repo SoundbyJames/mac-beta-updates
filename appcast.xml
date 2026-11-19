@@ -3,6 +3,15 @@
 <channel>
 <title>Beta updates</title>
 <item>
+<title>Build 413</title>
+<pubDate>Thu, 19 Nov 2026 04:05:53 GMT</pubDate>
+<sparkle:version>413</sparkle:version>
+<sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<p>Build 413. Build 413 (0.7.1): the last beta update. PictureFollows is out, and this beta won't get more updates. James is emailing every tester a code for a free license: download the official release from picturefollows.com. Also: Settings → Border (Thin, Medium, Thick).</p>]]></description>
+<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-413.zip" type="application/octet-stream" sparkle:edSignature="BPJRA1Ccux5eV585AqXRzqrKVPDpCDFsFKzD77WHtf1ioDrfSKOXLoHLO41Sb/X5Q3ZSrb74ARL3ZKbvyjA+CA==" length="10077104" />
+</item>
+<item>
 <title>Build 404</title>
 <pubDate>Wed, 18 Nov 2026 05:57:30 GMT</pubDate>
 <sparkle:version>404</sparkle:version>
@@ -37,15 +46,6 @@
 <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 <description><![CDATA[<p>Build 382. Fixes the black picture in sessions that don't start at 00:00:00:00. Send Log now replaces your session, clip, movie, folder and drive names before anything leaves your Mac. Settings explains each Pro Tools' video playback method.</p>]]></description>
 <enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-382.zip" type="application/octet-stream" sparkle:edSignature="xcxfHlzMt52A5t4Rfw1zFquN1eNAmX3z5Ns8b9pJxm/e0h1b3/nJUBUbQsqLX1a9sva1loOVQFQQRRm05wbaDg==" length="9969004" />
-</item>
-<item>
-<title>Build 369</title>
-<pubDate>Sun, 15 Nov 2026 20:29:57 GMT</pubDate>
-<sparkle:version>369</sparkle:version>
-<sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<p>Build 369. SpectraLayers: sending the same clips again after clearing the picture, or after closing the tabs, now shows the picture every time.</p>]]></description>
-<enclosure url="https://raw.githubusercontent.com/SoundbyJames/mac-beta-updates/main/beta-369.zip" type="application/octet-stream" sparkle:edSignature="h/DcyYdqwjHREgEXpy1bVNXdKmQBg7YqfO6v2Bxn4y+uJYi7BK/sKf9uHJlFQsMoaOYCFPcNFrYjk0hEQkJFCA==" length="9789263" />
 </item>
 </channel>
 </rss>
